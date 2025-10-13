@@ -23,7 +23,7 @@ document.write(`<!-- footer section start -->
 					<div class="col-md-4">
 						<a href="index.html"><img src="images/logo.png" alt="" class="img-fluid logo-footer" style="height:100px"></a>
                       <div class="footer-about">
-                          <p>Welcome to Neelam Orchid, a delightful haven nestled in the heart of Kanpur. Our hotel offers a serene and inviting ambiance, perfect for both business and leisure travelers.</p>
+                          <p>Welcome to Hotel Jyoti Residency , a delightful haven nestled in the heart of Kanpur. Our hotel offers a serene and inviting ambiance, perfect for both business and leisure travelers.</p>
                       </div>
 
 					</div>
@@ -48,13 +48,11 @@ document.write(`<!-- footer section start -->
 							
 							<div class="address-links">
 								<li class="address1"><i class="fa-solid fa-location-dot"></i> 
-                                <p>Kalyanpur, Bithoor Road, Opposite Sudhanshu Ashram, Kanpur, Uttar Pradesh</p></li>
-								   <!--<li><a href=""><i class="fa-solid fa-phone"></i> +91 8736882851</a></li>-->
-								   <li><a href="tel: +917752952251"><i class="fa-solid fa-phone"></i>  +91 7752952251</a><br>
-								        <a href="tel: +917307444519"><i class="fa-solid fa-phone"></i> +91 7307444519 </a><br>
-								        <a href="tel: +919026630024"><i class="fa-solid fa-phone"></i> +91 9026630024 </a>
+                                <p>OPP.Old Bus Stand, Berhampur, Ganjam ,Odisha</p></li>
+								   <!--<li><a href=""><i class="fa-solid fa-phone"></i> +91 8280464942</a></li>-->
+								   <li><a href="tel: +918280464942"><i class="fa-solid fa-phone"></i>  +91 8280464942</a><br>
 								   </li>
-								   <li><a href="mailto:neelamorchid@gmail.com"><i class="fa-solid fa-envelope"></i> neelamorchid@gmail.com</a></li>
+								   <li><a href="mailto:hoteljyotiresidencyresidency@gmail.com"><i class="fa-solid fa-envelope"></i> hoteljyotiresidencyresidency@gmail.com</a></li>
 							</div>
 						</div>
 					</div>
@@ -86,13 +84,13 @@ document.write(`<!-- footer section start -->
 		            <div class="col-lg-6 text-left copy-right-sec">
 			
             			<i class="fa-solid fa-copyright"></i>  
-            				Copyright 2025. All Rights Reserved by <a href="index.html">Neelam Orchid</a> 
+            				Copyright 2025. All Rights Reserved by <a href="index.html">Hotel Jyoti Residency </a> 
             
             
             		</div>
             		<div class="col-lg-6 text-end copy-right-sec">
 			
-            			Designed & Developed By <a href="https://bookingjini.com/" style="color:#f37d29">Bookingjini</a>
+            			Designed & Developed By <a href="https://tripstar.co.in" style="color:#f37d29">Tripstar</a>
             
             
             		</div>
@@ -102,6 +100,5 @@ document.write(`<!-- footer section start -->
 
 		</div>
 		<!-- footer copy right section end -->
-		<script src="https://jiniassist.bookingjini.com/embed.js?company_id=7452"></script>
-		`
-		);
+		<script src=""></script>
+		`);

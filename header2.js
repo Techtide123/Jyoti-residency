@@ -5,7 +5,7 @@ document.write(`<header class="has-topbar">
                     <div class="col-lg-12">
                     <div class="d-flex justify-content-between xs-hide">
                         <div class="header-widget d-flex">                                    
-                            <div class="topbar-widget"><a href="https://maps.app.goo.gl/Hc49qjYeMWafJ4DQ9"><i class="icofont-location-pin"></i>kalyanpur, Bithoor Rd, opposite sudhanshu ashram, Kanpur, Uttar Pradesh 209217, Kanpur, Uttar Pradesh</a></div>
+                            <div class="topbar-widget"><a href="https://maps.app.goo.gl/Hc49qjYeMWafJ4DQ9"><i class="icofont-location-pin"></i>OPP.Old Bus Stand, Berhampur, Ganjam, Odisha. </a></div>
                             <div class="topbar-widget"><a href="tel:8736882851"><i class="icofont-phone"></i>+91 8736882851</a></div>
                             <div class="topbar-widget"><a href="mailto:neelamorchid@gmail.com"><i class="icofont-envelope"></i>neelamorchid@gmail.com</a></div>
                         </div>
@@ -60,7 +60,7 @@ document.write(`<header class="has-topbar">
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">          
-                                    <a href="https://neelamorchid.bookingjini.in/" class="btn-main btn-line">Book Now</a>
+                                    <a href="" class="btn-main btn-line">Book Now</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
