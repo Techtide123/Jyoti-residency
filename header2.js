@@ -1,0 +1,71 @@
+document.write(`<header class="has-topbar">
+            <div id="topbar">
+                <div class="container">
+                    <div class="row">
+                    <div class="col-lg-12">
+                    <div class="d-flex justify-content-between xs-hide">
+                        <div class="header-widget d-flex">                                    
+                            <div class="topbar-widget"><a href="https://maps.app.goo.gl/Hc49qjYeMWafJ4DQ9"><i class="icofont-location-pin"></i>kalyanpur, Bithoor Rd, opposite sudhanshu ashram, Kanpur, Uttar Pradesh 209217, Kanpur, Uttar Pradesh</a></div>
+                            <div class="topbar-widget"><a href="tel:8736882851"><i class="icofont-phone"></i>+91 8736882851</a></div>
+                            <div class="topbar-widget"><a href="mailto:neelamorchid@gmail.com"><i class="icofont-envelope"></i>neelamorchid@gmail.com</a></div>
+                        </div>
+
+                        <div class="social-icons">
+                            <a href="https://www.facebook.com/neelamorchidresort/"><i class="fa-brands fa-facebook fa-lg"></i></a>
+                            <!--<a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
+                            <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>-->
+                            <a href="https://www.instagram.com/neelam_orchid/?hl=en"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="de-flex sm-pt10">
+                            <div class="de-flex-col">
+                                <!-- logo begin -->
+                                <div id="logo">
+                                    <a href="index.html">
+                                        <img class="logo-main" src="images/logo.png" alt="" >
+                                        <img class="logo-scroll" src="images/logo.png" alt="" >
+                                        <img class="logo-mobile" src="images/logo.png" alt="" >
+                                    </a>
+                                </div>
+                                <!-- logo close -->
+                            </div>
+                            <div class="de-flex-col header-col-mid">
+                                <ul id="mainmenu">
+                                    <li><a class="menu-item" href="index.html">Home</a></li>
+                                    <li><a class="menu-item" href="about.html">About Us</a></li>
+                                    <li><a class="menu-item" href="#">Accommodations</a>
+                                        <ul>
+                                            <li><a href="deluxe_room.html">Deluxe Room</a></li>
+                                            <li><a href="deluxe_lawn_room.html">Deluxe Room With Lawn View</a></li>
+                                            <li><a href="executive_room.html">Executive Rooms</a></li>
+                                            <li><a href="family_room.html">Family Suite</a></li>
+                                            <li><a href="premium_room.html">Premium Rooms</a></li>
+                                            <li><a href="suite_room.html">Suite Rooms</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li><a class="menu-item" href="gallery.html">Gallery</a></li>
+                                    <li><a class="menu-item" href="services.html">Services</a></li>
+                                    <li><a class="menu-item" href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                            <div class="de-flex-col">
+                                <div class="menu_side_area">          
+                                    <a href="https://neelamorchid.bookingjini.in/" class="btn-main btn-line">Book Now</a>
+                                    <span id="menu-btn"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>`);
