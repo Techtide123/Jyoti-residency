@@ -56,7 +56,7 @@ document.write(`<header class="has-topbar">
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">          
-                                    <a href="" class="btn-main btn-line">Book Now</a>
+                                    <a href="booking-form.html" class="btn-main btn-line">Book Now</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
