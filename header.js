@@ -45,10 +45,6 @@ document.write(`<header class="transparent has-topbar">
                                     <li><a class="menu-item" href="#">Accommodations</a>
                                         <ul>
                                             <li><a href="deluxe_room.html">Deluxe Room</a></li>
-                                            <li><a href="deluxe_lawn_room.html">Deluxe Room With Lawn View</a></li>
-                                            <li><a href="executive_room.html">Executive Rooms</a></li>
-                                            <li><a href="family_room.html">Family Suite</a></li>
-                                            <li><a href="premium_room.html">Premium Rooms</a></li>
                                             <li><a href="suite_room.html">Suite Rooms</a></li>
                                         </ul>
                                     </li>

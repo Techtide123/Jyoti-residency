@@ -7,15 +7,15 @@ document.write(`<header class="has-topbar">
                         <div class="header-widget d-flex">                                    
                             <div class="topbar-widget"><a href="https://maps.app.goo.gl/Hc49qjYeMWafJ4DQ9"><i class="icofont-location-pin"></i>OPP.Old Bus Stand, Berhampur, Ganjam, Odisha. </a></div>
                             <div class="topbar-widget"><a href="tel:8736882851"><i class="icofont-phone"></i>+91 8736882851</a></div>
-                            <div class="topbar-widget"><a href="mailto:neelamorchid@gmail.com"><i class="icofont-envelope"></i>neelamorchid@gmail.com</a></div>
+                            <div class="topbar-widget"><a href="mailto:hoteljyotiresidencyresidency@gmail.com"><i class="icofont-envelope"></i>hoteljyotiresidencyresidency@gmail.com</a></div>
                         </div>
 
                         <div class="social-icons">
-                            <a href="https://www.facebook.com/neelamorchidresort/"><i class="fa-brands fa-facebook fa-lg"></i></a>
+                            <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook fa-lg"></i></a>
                             <!--<a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                             <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                             <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>-->
-                            <a href="https://www.instagram.com/neelam_orchid/?hl=en"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram fa-lg"></i></a>
                         </div>
                     </div>
                 </div>
@@ -45,11 +45,7 @@ document.write(`<header class="has-topbar">
                                     <li><a class="menu-item" href="#">Accommodations</a>
                                         <ul>
                                             <li><a href="deluxe_room.html">Deluxe Room</a></li>
-                                            <li><a href="deluxe_lawn_room.html">Deluxe Room With Lawn View</a></li>
-                                            <li><a href="executive_room.html">Executive Rooms</a></li>
-                                            <li><a href="family_room.html">Family Suite</a></li>
-                                            <li><a href="premium_room.html">Premium Rooms</a></li>
-                                            <li><a href="suite_room.html">Suite Rooms</a></li>
+                                            <li><a href="suite_room.html">Presidential Suite</a></li>
                                         </ul>
                                     </li>
                                     

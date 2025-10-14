@@ -23,7 +23,7 @@ document.write(`<!-- footer section start -->
 					<div class="col-md-4">
 						<a href="index.html"><img src="images/logo.png" alt="" class="img-fluid logo-footer" style="height:100px"></a>
                       <div class="footer-about">
-                          <p>Welcome to Hotel Jyoti Residency , a delightful haven nestled in the heart of Kanpur. Our hotel offers a serene and inviting ambiance, perfect for both business and leisure travelers.</p>
+                          <p>Welcome to Hotel Jyoti Residency , a delightful haven nestled in the heart of Berhampur. Our hotel offers a serene and inviting ambiance, perfect for both business and leisure travelers.</p>
                       </div>
 
 					</div>
