@@ -299,7 +299,7 @@ header.autoshow.scrollOn {
 }
 
 header.autoshow.scrollOff {
-  opacity: ;
+  opacity: 0;
   top: -120px;
 }
 
@@ -314,6 +314,7 @@ header div#logo {
 }
 
 header div#logo img{
+  height: auto;
   width: 100%;
 }
 
@@ -4271,7 +4272,7 @@ a.btn-lg{
   margin: 0;
   padding: 0;
   margin-bottom: 0px;
-  line-height: 1em;x
+  line-height: 1em;
   letter-spacing: -.5px;
 }
 
@@ -6339,7 +6340,7 @@ i.font60 {
 
 .ul-style-4 li {
   margin: 2px 0 2px 0;
-  display: ;
+  display:none;
   font-weight: 500;
 }
 
@@ -6953,7 +6954,7 @@ ol.ol-style-1.dark li::before{
 }
 
 .pricing-s2.text-light .top .price,
-.pricing-s2.text-white .top .price,
+.pricing-s2.text-white .top .price
   {
   color: #ffffff;
 }
@@ -11779,7 +11780,7 @@ footer .widget{
   border-color: #555;
 }
 
-.widget_tags li a:hover border-color: #eceff3;
+.widget_tags li a:hover {border-color: #eceff3;
 }
 
 footer .widget {
@@ -12173,7 +12174,7 @@ i.bg-color-secondary {
 
 
 .de-step-s1 {
-  overflow: ;
+overflow: hidden;
   position: relative;
   padding: 30px;
   height: 100%;
@@ -12312,7 +12313,7 @@ i.bg-color-secondary {
 
 
 .owl-carousel.no-hide .owl-stage-outer{
-  overflow: visible; !important;
+  overflow: visible !important;
 }
 
 .c-item{
@@ -19412,7 +19413,7 @@ a.btn-slider:hover {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 .testi-slider .flex-control-paging li a {
