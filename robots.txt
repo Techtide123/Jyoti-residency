@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Disallow: /temp/
 
-Sitemap: https://neelamorchid.com/sitemap.xml
+Sitemap: https://hoteljyotiresidency.com/sitemap.xml

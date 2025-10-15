@@ -11,11 +11,11 @@ document.write(`<header class="transparent has-topbar">
                                 </div>
 
                                 <div class="social-icons">
-                                    <a href="https://www.facebook.com/neelamorchidresort/"><i class="fa-brands fa-facebook fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
                                     <!--<a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>-->
-                                    <a href="https://www.instagram.com/neelam_orchid/?hl=en"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                         </div>
