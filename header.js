@@ -6,7 +6,7 @@ document.write(`<header class="transparent has-topbar">
                             <div class="d-flex justify-content-between xs-hide">
                                 <div class="header-widget d-flex">                                    
                                     <div class="topbar-widget"><a href="https://maps.app.goo.gl/uWZ4vra6rGjsBPyR6"><i class="icofont-location-pin"></i>OPP.Old Bus Stand, Berhampur, Ganjam, Odisha.</a></div>
-                                    <div class="topbar-widget"><a href="tel:+918280464942"><i class="icofont-phone"></i>+91 8280464942</a></div>
+                                    <div class="topbar-widget"><a href="tel:+916802225428"><i class="icofont-phone"></i>+91 6802225428</a></div>
                                     <div class="topbar-widget"><a href="mailto:hoteljyotiresidencyresidency@gmail.com"><i class="icofont-envelope"></i>hoteljyotiresidencyresidency@gmail.com</a></div>
                                 </div>
 

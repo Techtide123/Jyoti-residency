@@ -49,8 +49,8 @@ document.write(`<!-- footer section start -->
 							<div class="address-links">
 								<li class="address1"><i class="fa-solid fa-location-dot"></i> 
                                 <p>OPP.Old Bus Stand, Berhampur, Ganjam ,Odisha</p></li>
-								   <!--<li><a href=""><i class="fa-solid fa-phone"></i> +91 8280464942</a></li>-->
-								   <li><a href="tel: +918280464942"><i class="fa-solid fa-phone"></i>  +91 8280464942</a><br>
+								   <!--<li><a href=""><i class="fa-solid fa-phone"></i> +91 6802225428</a></li>-->
+								   <li><a href="tel: +916802225428"><i class="fa-solid fa-phone"></i>  +91 6802225428</a><br>
 								   </li>
 								   <li><a href="mailto:hoteljyotiresidencyresidency@gmail.com"><i class="fa-solid fa-envelope"></i> hoteljyotiresidencyresidency@gmail.com</a></li>
 							</div>
