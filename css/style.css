@@ -314,7 +314,7 @@ header div#logo {
 }
 
 header div#logo img{
-  height: 130px;
+  height: 100px;
   width: 100%;
 }
 
@@ -1932,7 +1932,7 @@ header.header-mobile {
   position: fixed !important;
   background: var(--title-font-color);
   top: 0;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 header.header-mobile.logo-center {
@@ -20295,6 +20295,26 @@ border-radius:20px 0 0 20px;
     position: inherit;
     margin: 0;
     width: 100%;
+  }
+
+  /* --- Mobile menu: keep menu hidden until user opens it --- */
+  /* Ensure the hamburger button is visible when header is in mobile mode */
+  header.header-mobile #menu-btn {
+    display: block;
+  }
+
+  /* Hide the full menu by default on mobile; show only when header has .menu-open */
+  header.header-mobile:not(.menu-open) #mainmenu {
+    display: none;
+  }
+
+  header.header-mobile.menu-open #mainmenu {
+    display: block;
+  }
+
+  /* Hide submenus until the mobile menu is opened */
+  header.header-mobile:not(.menu-open) #mainmenu li ul {
+    display: none;
   }
 
   header.header-mobile #mainmenu li {

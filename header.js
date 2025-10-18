@@ -15,7 +15,7 @@ document.write(`<header class="transparent has-topbar">
                                     <!--<a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>-->
-                                    <a href="#"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                                    <a href="https://www.instagram.com/hoteljyotiresidency"><i class="fa-brands fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                         </div>

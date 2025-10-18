@@ -63,7 +63,7 @@ document.write(`<!-- footer section start -->
 							
 							<div class="social-icons">
 								<li><a href="#"><i class="fa-brands fa-facebook-f"></i> Facebook</a></li>
-								<li><a href="#"><i class="fa-brands fa-instagram"></i> Instagram</a></li>
+								<li><a href="https://www.instagram.com/hoteljyotiresidency"><i class="fa-brands fa-instagram"></i> Instagram</a></li>
 								
 							</div>
 						</div>
