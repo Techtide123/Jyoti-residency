@@ -90,9 +90,7 @@ document.write(`<!-- footer section start -->
             		</div>
             		<div class="col-lg-6 text-end copy-right-sec">
 			
-            			Designed & Developed By <a href="https://tripstar.co.in" style="color:#f37d29">Tripstar</a>
-            
-            
+            			Designed & Developed By <img href="https://tripstar.co.in" src="https://tripstar.co.in/assets/my-img/logo.png" alt="Tripstar" style="width:80px;height:50px;">
             		</div>
 		        </div>
 		    </div>
